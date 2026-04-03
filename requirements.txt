@@ -1,0 +1,23 @@
+Functional Requirements:
+
+1. The system shall allow users to create a new contact.
+2. The system shall allow users to update an existing contact.
+3. The system shall allow users to delete a contact.
+4. The system shall allow users to search contacts by name.
+5. The system shall store contact details including:
+   - First Name
+   - Last Name
+   - Company
+   - Job Title
+6. The system shall allow each contact to have zero or more phone numbers.
+7. Each phone number shall include:
+   - Number
+   - Label (e.g., Home, Work, Mobile)
+8. The system shall allow each contact to have zero or more email addresses.
+9. Each email address shall include:
+   - Email address
+   - Label (e.g., Home, Work)
+10. The system shall support merging duplicate contacts.
+11. The system shall display contacts in a structured format.
+12. The system shall sort contacts by last name in ascending order.
+13. The system shall output contact data in JSON format.
